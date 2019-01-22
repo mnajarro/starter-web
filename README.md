@@ -14,3 +14,6 @@ Even more filler text
 ## Deployment
 
 Addin more filler text here
+
+## Copyright
+2019 git training
