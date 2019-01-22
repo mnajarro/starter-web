@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-Even more filler text
+Even more filler text. Please check before you merge.
 
 ## Deployment
 
