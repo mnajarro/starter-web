@@ -16,4 +16,4 @@ Even more filler text. Please check before you merge.
 Addin more filler text here
 
 ## Copyright
-2019 git training
+2019 git training. All rights reserved.
